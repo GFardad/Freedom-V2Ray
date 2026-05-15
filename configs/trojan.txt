@@ -73,7 +73,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@107.151.188.118:443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@107.173.15.138:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-107.173.15.138-1681
 trojan://8r%3C%5B9%27l6hAO%238ZQi@109.61.110.241:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR-109.61.110.241-0793
 trojan://8r%3C%5B9%27l6hAO%238ZQi@118.39.136.248:20002?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-118.39.136.248-0753
-trojan://8r%3C%5B9%27l6hAO%238ZQi@121.167.94.122:25448?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-121.167.94.122-0769
 trojan://8r%3C%5B9%27l6hAO%238ZQi@123.99.111.135:19461?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-123.99.111.135-0728
 trojan://8r%3C%5B9%27l6hAO%238ZQi@128.14.196.46:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-128.14.196.46-1691
 trojan://8r%3C%5B9%27l6hAO%238ZQi@130.94.1.150:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-130.94.1.150-1696
@@ -81,7 +80,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@134.195.211.140:8443?security=tls&sni=Koma-YT.
 trojan://8r%3C%5B9%27l6hAO%238ZQi@138.124.81.204:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR-138.124.81.204-0791
 trojan://8r%3C%5B9%27l6hAO%238ZQi@138.197.194.78:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-138.197.194.78-0824
 trojan://8r%3C%5B9%27l6hAO%238ZQi@138.2.23.80:21044?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.23.80-1638
-trojan://8r%3C%5B9%27l6hAO%238ZQi@140.238.208.240:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A8%F0%9F%87%ADCH-140.238.208.240-0788
 trojan://8r%3C%5B9%27l6hAO%238ZQi@140.238.50.134:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-140.238.50.134-1639
 trojan://8r%3C%5B9%27l6hAO%238ZQi@140.83.50.165:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-140.83.50.165-1649
 trojan://8r%3C%5B9%27l6hAO%238ZQi@141.147.174.243:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-141.147.174.243-1647
@@ -123,7 +121,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@172.245.226.122:443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.245.93.26:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-172.245.93.26-1735
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-172.66.44.230-0773
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.93.187.184:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-172.93.187.184-1683
-trojan://8r%3C%5B9%27l6hAO%238ZQi@175.197.237.36:10912?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-175.197.237.36-0729
 trojan://8r%3C%5B9%27l6hAO%238ZQi@176.125.240.147:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AASE-176.125.240.147-0747
 trojan://8r%3C%5B9%27l6hAO%238ZQi@176.125.240.63:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AASE-176.125.240.63-0759
 trojan://8r%3C%5B9%27l6hAO%238ZQi@176.97.70.51:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-176.97.70.51-1646
@@ -173,6 +170,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@43.134.174.114:443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@43.153.105.7:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-43.153.105.7-1687
 trojan://8r%3C%5B9%27l6hAO%238ZQi@44.32.224.195:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A8%F0%9F%87%A6CA-44.32.224.195-1741
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.11.1.118:44004?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-45.11.1.118-1643
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.136.14.61:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0HK-45.136.14.61-1617
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.137.213.149:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-45.137.213.149-1700
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.145.171.206:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AA%F0%9F%87%AAEE-45.145.171.206-0775
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.150.128.181:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B9%F0%9F%87%ADTH-45.150.128.181-0725
@@ -187,10 +185,12 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.226.162.201:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB-46.226.162.201-1746
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.29.234.91:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%B9LT-46.29.234.91-0784
 trojan://8r%3C%5B9%27l6hAO%238ZQi@47.236.119.109:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-47.236.119.109-1659
+trojan://8r%3C%5B9%27l6hAO%238ZQi@47.76.218.163:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0HK-47.76.218.163-1616
 trojan://8r%3C%5B9%27l6hAO%238ZQi@47.79.85.210:11307?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.85.210-1634
 trojan://8r%3C%5B9%27l6hAO%238ZQi@47.82.178.58:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-47.82.178.58-1665
 trojan://8r%3C%5B9%27l6hAO%238ZQi@5.189.254.235:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AA%F0%9F%87%AAEE-5.189.254.235-0797
 trojan://8r%3C%5B9%27l6hAO%238ZQi@50.228.203.26:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-50.228.203.26-1699
+trojan://8r%3C%5B9%27l6hAO%238ZQi@59.0.95.106:32773?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-59.0.95.106-0761
 trojan://8r%3C%5B9%27l6hAO%238ZQi@59.12.232.18:12345?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-59.12.232.18-0752
 trojan://8r%3C%5B9%27l6hAO%238ZQi@61.72.208.162:32768?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-61.72.208.162-0760
 trojan://8r%3C%5B9%27l6hAO%238ZQi@64.110.104.30:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP-64.110.104.30-1645
@@ -206,6 +206,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.109.228:443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.132:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%B0DK-77.37.96.132-0757
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.247:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%B0DK-77.37.96.247-0794
 trojan://8r%3C%5B9%27l6hAO%238ZQi@79.141.73.189:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU-79.141.73.189-0734
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.223.63.150:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0HK-8.223.63.150-1620
 trojan://8r%3C%5B9%27l6hAO%238ZQi@8.223.63.189:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0HK-8.223.63.189-1618
 trojan://8r%3C%5B9%27l6hAO%238ZQi@8.34.146.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2Ftr%2B%7C%2B%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN%2B%7C%2B&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-8.34.146.253-0712
 trojan://8r%3C%5B9%27l6hAO%238ZQi@80.209.242.70:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-80.209.242.70-1720
@@ -313,11 +314,8 @@ trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1790
 trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls#%F0%9F%87%B2%F0%9F%87%A9MD-103.231.73.181-4522
 trojan://telegram-id-directvpn@13.39.94.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.94.180
-trojan://telegram-id-directvpn@18.197.233.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.197.233.165
-trojan://telegram-id-privatevpns@13.39.94.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.94.180
-trojan://telegram-id-privatevpns@18.197.233.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.197.233.165
+trojan://telegram-id-directvpn@52.28.27.2:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.28.27.2
+trojan://telegram-id-privatevpns@52.28.27.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.28.27.2
 trojan://telegram-id-v2rayvpnchannel@13.39.94.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.94.180
-trojan://telegram-id-v2rayvpnchannel@18.197.233.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.197.233.165
-trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-2345
+trojan://telegram-id-v2rayvpnchannel@52.28.27.2:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.28.27.2
 trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8579
-trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8575
