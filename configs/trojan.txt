@@ -126,7 +126,6 @@ trojan://Masir_Sefid@37.156.45.168:443?security=reality&pbk=03be_-tMiVFxrLwXO7TM
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click#%F0%9F%87%BA%F0%9F%87%B8US-149.104.87.182-0173
 trojan://SoftNetConnect@167.233.105.87:2083?type=grpc&security=reality&authority=77.110.126.179&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=n8Fu8cwHAewTgsS-QHBl9KobDMR5W-dGwiE73p4vjxc&sid=1b8d4593&spx=/#🇩🇪 DE | 167.233.105.87
 trojan://SoftNetConnect@167.233.105.87:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#🇩🇪 DE | 167.233.105.87
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-6229
 trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#%F0%9F%87%AE%F0%9F%87%B3IN-65.20.90.225-0119
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-54.184.22.123-4432
 trojan://WF42809561@outgoing-cockatoo.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.222.125-4407
@@ -206,5 +205,6 @@ trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9
 trojan://telegram-id-directvpn@35.181.90.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.90.22
 trojan://telegram-id-directvpn@51.44.146.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.146.0
 trojan://telegram-id-privatevpns@35.181.90.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.90.22
+trojan://telegram-id-privatevpns@51.44.146.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.146.0
 trojan://telegram-id-v2rayvpnchannel@35.181.90.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.90.22
 trojan://telegram-id-v2rayvpnchannel@51.44.146.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.146.0
