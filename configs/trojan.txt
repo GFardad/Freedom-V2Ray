@@ -209,12 +209,15 @@ trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=htt
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=weqwdf.fll.mitivpn.dsech.ss.ssandfdsgx.gloteefghedcalasd.ssl.fastly.net.b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 CA | 188.114.97.6
-trojan://mitivpn@188.114.97.6:443?type=ws&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud---&security=tls&path=/?mitivpn&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🏴‍☠️ UN | 188.114.97.6
+trojan://mitivpn@188.114.97.6:443?type=ws&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud---&security=tls&path=/?mitivpn&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 CA | 188.114.97.6
+trojan://ppmk@188.114.97.6:8443?type=ws&security=tls&host=flat-firefly-6022.rixewi3168.workers.dev&path=/&sni=flat-firefly-6022.rixewi3168.workers.dev#🇨🇦 CA | 188.114.97.6
 trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.167.233-4509
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?security=tls&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.138-0169
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1706
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8ES-103.45.245.208-0733
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.90.197-4450
-trojan://telegram-id-directvpn@13.38.234.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.234.91
-trojan://telegram-id-privatevpns@13.38.234.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.234.91
-trojan://telegram-id-v2rayvpnchannel@13.38.234.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.234.91
+trojan://telegram-id-directvpn@3.121.6.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.121.6.227
+trojan://telegram-id-directvpn@3.69.103.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.69.103.29
+trojan://telegram-id-privatevpns@3.121.6.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.121.6.227
+trojan://telegram-id-v2rayvpnchannel@3.121.6.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.121.6.227
+trojan://telegram-id-v2rayvpnchannel@3.69.103.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.69.103.29
