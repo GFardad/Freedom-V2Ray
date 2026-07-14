@@ -71,7 +71,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.u
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-4062
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.67.30-4519
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.77.99-4256
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.234-4176
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.77.99-4300
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-4131
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.67.30-4254
@@ -169,6 +168,7 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.135-0261
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.138-0179
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.140-0178
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.142-0257
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.145-0255
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.149-0236
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇩🇪 DE | 185.137.157.149
@@ -257,7 +257,6 @@ trojan://humanity@66.81.247.155:443?security=tls&sni=www.calmloud.com#%F0%9F%8F%
 trojan://humanity@91.193.58.77:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-91.193.58.77-0696
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.creationlong.org&fp=ios&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 CA | 188.114.97.0
 trojan://humanity@www.ignitelimit.com:443?security=tls#%F0%9F%8F%81RELAY-104.18.23.63-2665
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5892
 trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=firefox&insecure=0&allowInsecure=0#🇺🇸 US | 151.101.34.144
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-6789
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-6354
